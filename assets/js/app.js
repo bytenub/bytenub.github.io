@@ -185,8 +185,8 @@ function getDistance(p1, p2) {
 
 $(function(){
   $(".typewriter").typed({
-    strings: ["First sentence.", "Second sentence."],
-    typeSpeed: 0.5,
+    strings: ["Creative Digital Agency", "Build Awesome Stuffs.","ByteNub"],
+    typeSpeed: 0.1,
     loop: true,
   });
 });
